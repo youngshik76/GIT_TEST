@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1690691136 source:d:\study\c_language\test_code\c_test\0729_setting.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"0729_SETTING.h"
+
+1690688039 source:d:\study\c_language\test_code\c_test\struct_test.cpp
+	<stdio.h>
+
+1690691155 d:\study\c_language\test_code\c_test\0729_setting.h
+
+1691295675 source:d:\study\c_language\test_code\c_test\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"0729_SETTING.h"
+	"struct.h"
+
+1690697435 d:\study\c_language\test_code\c_test\struct.h
+
+1690697638 source:d:\study\c_language\test_code\c_test\struct.cpp
+	<stdio.h>
+	"struct.h"
+	<stdlib.h>
+	<string.h>
+
