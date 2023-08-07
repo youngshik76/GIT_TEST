@@ -18,6 +18,7 @@ int main(void)
 
     //printf("name_main:%s\n",you.name);
     write_profile(name3,727,48,175,"항상 건강하세요");
+write_profile(name3,727,48,175,"항상 건강하세요");
 
 
     return 0;
