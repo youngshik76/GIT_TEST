@@ -4,6 +4,7 @@
 #include "0729_SETTING.h"
 #include "struct.h"
 
+//test112
 extern char name3[];
 
 struct student s1;
@@ -17,8 +18,8 @@ int main(void)
 
 
     //printf("name_main:%s\n",you.name);
-    write_profile(name3,727,48,175,"Ç×»ó °Ç°­ÇÏ¼¼¿ä");
-write_profile(name3,727,48,175,"Ç×»ó °Ç°­ÇÏ¼¼¿ä");
+    write_profile(name3,727,48,175,"ï¿½×»ï¿½ ï¿½Ç°ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½");
+write_profile(name3,727,48,175,"ï¿½×»ï¿½ ï¿½Ç°ï¿½ï¿½Ï¼ï¿½ï¿½ï¿½");
 
 
     return 0;
