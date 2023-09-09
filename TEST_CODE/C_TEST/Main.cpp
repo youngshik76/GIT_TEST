@@ -5,6 +5,8 @@
 #include "struct.h"
 
 //test112
+//test112222222
+
 extern char name3[];
 
 struct student s1;
